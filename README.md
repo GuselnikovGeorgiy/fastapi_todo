@@ -2,9 +2,11 @@
 
 ### Used packages:
 ```commandline
+python 3.12
 fastapi
 uvicorn
 sqlalchemy
+jinja
 poetry         #  to manage dependency
 ```
 How to run:
